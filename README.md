@@ -1,8 +1,4 @@
-# Pokédex – Projet de la Semaine
-
-Bienvenue sur le projet **Pokédex** ! 👋
-
-## Présentation
+#Présentation
 
 Ce projet consiste à créer une application web de type Pokédex, une encyclopédie virtuelle recensant tous les Pokémons du jeu.  
 En plus de la consultation du Pokédex, les utilisateurs pourront créer et gérer leurs propres équipes de Pokémons.
