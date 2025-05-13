@@ -1,51 +1,28 @@
-#Présentation
+# Projet Pokédex - Documentation
 
-Ce projet consiste à créer une application web de type Pokédex, une encyclopédie virtuelle recensant tous les Pokémons du jeu.  
-En plus de la consultation du Pokédex, les utilisateurs pourront créer et gérer leurs propres équipes de Pokémons.
+## 📖 Présentation  
+Application web de type Pokédex permettant de consulter l'encyclopédie Pokémon complète et de gérer des équipes personnalisées.  
 
-## Objectifs pédagogiques
+**Fonctionnalités clés** :
+- Consultation complète des Pokémon et leurs caractéristiques
+- Système de gestion d'équipes (CRUD complet)
+- Interface dynamique sans framework
 
-- **Créer une API REST** pour gérer les données de Pokémons et d’équipes.
-- **Consommer cette API** et réaliser un front dynamique en Vanilla JavaScript (sans framework).
-- **Afficher dynamiquement** des templates HTML générés depuis JavaScript.
-- Manipuler les méthodes **GET** et **POST** pour interagir avec l’API.
+## 🎯 Objectifs pédagogiques
+- Implémentation d'une **API REST** complète
+- Développement frontend en **Vanilla JavaScript**
+- Gestion dynamique de templates HTML
+- Manipulation des méthodes HTTP (GET/POST)
 
-## Fonctionnalités principales
+## 🛠 Technologies
+| Backend              | Frontend              |
+|----------------------|-----------------------|
+| Node.js   | HTML5                 |
+| Express | CSS3                 |
+| Base de données SQL | Vanilla JavaScript |
 
-- **Consulter le Pokédex**  
-  Affichage de la liste complète des Pokémons et de leurs informations.
-- **Gérer ses équipes**
-  - Créer une équipe de Pokémons.
-  - Ajouter des Pokémons à une équipe.
-  - Renommer ou supprimer une équipe.
-  - Retirer un Pokémon d’une équipe.
-- **Bonus** (pour aller plus loin)
-  - Recherche et filtres avancés.
-  - Gestion des images ou sprites des Pokémons.
-  - Système de favoris ou de statistiques d’équipe.
-  - Authentification utilisateur.
+## 🚀 Installation
 
-## Technologies utilisées
-
-- **Backend** : API REST (au choix : Node.js, Python, PHP, etc.)
-- **Frontend** : HTML, CSS, Vanilla JavaScript
-
-## Installation et démarrage
-
-1. **Cloner le projet**
-2. **Installer les dépendances** (si nécessaire, selon la stack choisie)
-3. **Lancer le backend** 
-4. **Ouvrir le frontend**
-- Ouvre le fichier `index.html` dans ton navigateur.
-- Ou lance un serveur local si besoin (ex : `npx serve`).
-
-## Structure du projet
-/backend
-└── api, routes, models, etc.
-...
-/frontend
-└── index.html, app.js, styles.css, templates/
-README.md
 
 
 
